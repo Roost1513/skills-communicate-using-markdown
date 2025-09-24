@@ -1,3 +1,3 @@
-# Editing my file with headers
+# Adding a header with Markdown
 
-This is to learn how to add headers to a file.
+![My personal avatar image of me celebrating Halloween in the Great Hall of Hogwarts](https://avatars.githubusercontent.com/u/60669661?s=96&v=4)
